@@ -1,4 +1,4 @@
-## **My Dock Finder**
+## **My Dock Finder (free version)**
 
 > 之前~~购买~~白嫖的版本，现打包同时更新了使用说明文档供享用！（无源码）
 
@@ -36,7 +36,7 @@ Win10系统还需要另外安装组件，首先打开系统设置然后点击应
 
 ![img](https://s2.loli.net/2022/06/21/5uZBFzyTYNngA24.jpg) 
 
-点击右侧可选功能
+点击**右侧可选功能**
 
 ![img](https://s2.loli.net/2022/06/21/SRXEWs6FB7MJ92O.jpg) 
 
@@ -46,7 +46,7 @@ Win10系统还需要另外安装组件，首先打开系统设置然后点击应
 
 **下面这个设置自行选择是否打开**
 
-点击设置更新和安全
+点击**设置更新和安全**
 
 ![img](https://s2.loli.net/2022/06/21/WJL5qmeDRPsvOrj.jpg) 
 
@@ -71,11 +71,10 @@ https://cloud.189.cn/t/6BfiaqfuEBNr
 运行文件夹内对应的exe，然后按照下图所以依次点击，win7直接运行DirectX repair.exe，win8以上系统运行win8_win10.exe，【同时更新C++】是默认勾选的可以不用点击只是查看一下是否勾选就可以了，最后点击检测并修复然后重启系统，如果你是经常玩大型3A游戏基本是不用他修复的因为大型游戏必须有这些运行库才能玩
 
 ![img](https://s2.loli.net/2022/06/21/KekosX5EnJyfpNO.jpg)
+
 **Win7启动就崩溃或者无法运行和开启硬件加速方法：下载下面链接微软发布的功能更新补丁，32位和64位下载对应你系统的32/64版本，安装完毕之后需要重启电脑**
 
 https://www.microsoft.com/zh-CN/download/details.aspx?id=36805
-
- 
 
 ![img](https://s2.loli.net/2022/06/21/3o4HuQypfA5W8zT.jpg) 
 
@@ -91,7 +90,7 @@ C++开机启动使用服务方式，在任务管理器中服务查看是否有My
 
 ![img](https://s2.loli.net/2022/06/21/951BvzrLxIjqMpK.jpg) 
 
-如果没有就打开dock设置重新勾选一次开机启动选项，如果还是没有mydock服务时***\*需要手动添加，管理员模式运行cmd\****
+如果没有就打开dock设置重新勾选一次开机启动选项，如果还是没有mydock服务时**需要手动添加，管理员模式运行cmd**
 
 ![img](https://s2.loli.net/2022/06/21/TZain3mCUOVwDlH.jpg) 
 
