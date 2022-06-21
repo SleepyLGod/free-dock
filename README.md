@@ -22,7 +22,7 @@ o CPU：主频1.5GHz及以上 双核四线程及以上处理器
 
 o 内存：1GB及以上
 
-o 显存：512MB及以上 RTX系列显卡可能最小化动画不稳定（主要没有这样的显卡没法测试<img src="https://s2.loli.net/2022/06/21/8PxKwz7kBsMHSG6.jpg" alt="img" style="zoom:25%;" />）
+o 显存：512MB及以上 RTX系列显卡可能最小化动画不稳定（主要没有这样的显卡没法测试<img src="https://s2.loli.net/2022/06/21/8PxKwz7kBsMHSG6.jpg" alt="img" style="zoom:15%;" />）
 
 **§** ***\*驱动问题\****（新增）
 
